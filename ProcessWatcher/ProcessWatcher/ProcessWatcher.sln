@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessWatcher", "ProcessWatcher\ProcessWatcher.csproj", "{D3DAD9B1-F4EA-4838-AF16-FD2B37E7AB1F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProcessWatcher_Setup", "ProcessWatcher_Setup\ProcessWatcher_Setup.vdproj", "{E9E1833C-8812-4C73-95D0-2582D9B3886B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DAD9B1-F4EA-4838-AF16-FD2B37E7AB1F}.Debug|x86.ActiveCfg = Debug|x86
+		{D3DAD9B1-F4EA-4838-AF16-FD2B37E7AB1F}.Debug|x86.Build.0 = Debug|x86
+		{D3DAD9B1-F4EA-4838-AF16-FD2B37E7AB1F}.Release|x86.ActiveCfg = Release|x86
+		{D3DAD9B1-F4EA-4838-AF16-FD2B37E7AB1F}.Release|x86.Build.0 = Release|x86
+		{E9E1833C-8812-4C73-95D0-2582D9B3886B}.Debug|x86.ActiveCfg = Debug
+		{E9E1833C-8812-4C73-95D0-2582D9B3886B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

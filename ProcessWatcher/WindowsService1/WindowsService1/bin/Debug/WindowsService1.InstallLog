@@ -1,0 +1,156 @@
+﻿正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 KILLER...
+已成功安装服务 KILLER。
+正在日志 Application 中创建 EventLog 源 KILLER...
+正在日志 MgenLog 中创建 EventLog 源 进程杀手服务程序...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 进程杀手服务程序。
+警告: 源 进程杀手服务程序 未在本地计算机上注册。
+正在删除事件日志 MgenLog。
+正在移除 EventLog 源 KILLER。
+正在从系统中移除服务 KILLER...
+已成功地从系统中移除服务 KILLER。
+尝试停止服务 KILLER。
+正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 KILLER...
+已成功安装服务 KILLER。
+正在日志 Application 中创建 EventLog 源 KILLER...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 KILLER。
+正在从系统中移除服务 KILLER...
+已成功地从系统中移除服务 KILLER。
+正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 KILLER...
+已成功安装服务 KILLER。
+正在日志 Application 中创建 EventLog 源 KILLER...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 KILLER。
+正在从系统中移除服务 KILLER...
+已成功地从系统中移除服务 KILLER。
+正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 KILLER...
+已成功安装服务 KILLER。
+正在日志 Application 中创建 EventLog 源 KILLER...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 KILLER。
+正在从系统中移除服务 KILLER...
+已成功地从系统中移除服务 KILLER。
+尝试停止服务 KILLER。
+正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 KILLER...
+已成功安装服务 KILLER。
+正在日志 Application 中创建 EventLog 源 KILLER...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 KILLER。
+正在从系统中移除服务 KILLER...
+已成功地从系统中移除服务 KILLER。
+尝试停止服务 KILLER。
+正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 KILLER...
+已成功安装服务 KILLER。
+正在日志 Application 中创建 EventLog 源 KILLER...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 KILLER。
+正在从系统中移除服务 KILLER...
+已成功地从系统中移除服务 KILLER。
+尝试停止服务 KILLER。
+正在安装程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 test01...
+已成功安装服务 test01。
+正在日志 Application 中创建 EventLog 源 test01...
+正在提交程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在卸载程序集“C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\lihao98722\Documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在移除 EventLog 源 test01。
+正在从系统中移除服务 test01...
+已成功地从系统中移除服务 test01。
+尝试停止服务 test01。

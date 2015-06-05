@@ -1,0 +1,10 @@
+c:\users\lihao98722\documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\lihao98722\documents\visual studio 2010\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\lihao98722\documents\visual studio 2010\Projects\WindowsService1\WindowsService1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lihao98722\documents\visual studio 2010\Projects\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.exe
+c:\users\lihao98722\documents\visual studio 2010\Projects\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.pdb
+C:\Users\DELL\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Users\DELL\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.pdb
+C:\Users\DELL\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\DELL\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\DELL\Desktop\WindowsService1\WindowsService1\obj\x86\Debug\WindowsService1.csprojResolveAssemblyReference.cache

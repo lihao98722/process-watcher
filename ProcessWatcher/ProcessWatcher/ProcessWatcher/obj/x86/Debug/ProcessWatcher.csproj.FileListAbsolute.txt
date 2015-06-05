@@ -1,0 +1,8 @@
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\bin\Debug\ProcessWatcher.exe
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\bin\Debug\ProcessWatcher.pdb
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\obj\x86\Debug\ProcessWatcher.Form1.resources
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\obj\x86\Debug\ProcessWatcher.Properties.Resources.resources
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\obj\x86\Debug\ProcessWatcher.csproj.GenerateResource.Cache
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\obj\x86\Debug\ProcessWatcher.exe
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\obj\x86\Debug\ProcessWatcher.pdb
+E:\MyWorks\c# demo\ProcessWatcher\ProcessWatcher\bin\Debug\ProcessWatcher.exe.config
